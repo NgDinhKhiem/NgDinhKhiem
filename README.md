@@ -30,7 +30,7 @@ My name is [Khiem] and I'm a Software Engineer/Data Engineer. I'm from Vietnam, 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ngdinhkhiem&theme=monokai-metallian&hide_border=true"/></a>
+		<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NgDinhKhiem&theme=dark" alt="GitHub Streak" /></a>
 <p align="center"> If you can dream it, you do it🔥 </p>
 </p>
 
