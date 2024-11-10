@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=+I+am++into++Minecraft;I+have++fun++with++Game+Creation;I+have++interested++Machine+Learning+;I+am++into+DataScience+!!&center=true&width=380&height=45"></a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NgDinhKhiem&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Social badges section -->
