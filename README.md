@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NgDinhKhiem&theme=dark" alt="GitHub Streak" /></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=+I+am++into++Minecraft;I+have++fun++with++Game+Creation;I+have++interested++Machine+Learning+;I+am++into+DataScience+!!&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social badges section -->
@@ -29,7 +29,8 @@ My name is [Khiem] and I'm a Software Engineer/Data Engineer. I'm from Vietnam, 
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ngdinhkhiem&theme=monokai-metallian&hide_border=true"/></a>
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ngdinhkhiem&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> If you can dream it, you do it🔥 </p>
 </p>
 
